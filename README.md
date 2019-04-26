@@ -62,3 +62,11 @@
 
 ---
 
+#### Problem: Release COM Objects properly in C#
+
+* https://social.msdn.microsoft.com/Forums/vstudio/en-US/7f43cb01-3296-4926-9973-4ec7de245ad0/disposing-com-objects?forum=netfxbcl
+
+*Tags: Release, C#, COM, Office*
+
+---
+
