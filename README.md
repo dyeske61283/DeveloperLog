@@ -54,3 +54,10 @@
 
 ---
 
+#### Problem: Read in an Excel file in C#
+
+* https://coderwall.com/p/app3ya/read-excel-file-in-c
+
+*Tags: Excel, C#, Automation*
+
+---
