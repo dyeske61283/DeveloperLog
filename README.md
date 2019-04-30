@@ -2,7 +2,7 @@
 
 *A Dev Log for me. Maybe share it later on...*
 
-#Template
+# Template
 
 ## Date
 
@@ -81,3 +81,20 @@
 *Tags: SIOS, Openness, TIA, API, C#*
 
 ---
+
+#### Push/Pull from/to multiple remote repos
+
+* https://stackoverflow.com/questions/849308/pull-push-from-multiple-remote-locations
+
+*Tags: git, github, gitlab, vcs, remote*
+
+--- 
+
+#### Using git behind a corporate proxy
+
+* https://stackoverflow.com/questions/128035/how-do-i-pull-from-a-git-repository-through-an-http-proxy
+
+*Tags: git, proxy, corporate, remote*
+
+---
+
