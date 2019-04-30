@@ -2,6 +2,8 @@
 
 *A Dev Log for me. Maybe share it later on...*
 
+#Template
+
 ## Date
 
 #### Problem: 
@@ -70,3 +72,12 @@
 
 ---
 
+## 30.04.2019
+
+#### Is object XYZ accessible via Opennes?
+
+* https://support.industry.siemens.com/cs/document/109760816/tia-openness-explorer?dti=0&lc=en-GB
+
+*Tags: SIOS, Openness, TIA, API, C#*
+
+---
