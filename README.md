@@ -98,3 +98,44 @@
 
 ---
 
+## 03.05.2019
+
+#### Problem: Comparing two complex objects
+
+* https://stackoverflow.com/questions/10454519/best-way-to-compare-two-complex-objects
+
+*Tags: C#, compare, objects, complex*
+
+---
+
+#### Problem: Dot-Net playground online for experimenting
+
+* https://dotnetfiddle.net/
+
+*Tags: C#, .NET, playground, fiddle, online*
+
+---
+
+#### Problem: Run async method regularly
+
+* https://stackoverflow.com/questions/30462079/run-async-method-regularly-with-specified-interval
+  
+*Tags: C#, .NET, async, interval, method, task*
+
+---
+
+#### Problem: Asynchronous programming in C#
+
+* https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/concepts/async/
+
+*Tags: C#, .NET, async, concept*
+
+---
+
+#### Problem: common I/O tasks in C#
+
+* https://docs.microsoft.com/de-de/dotnet/standard/io/common-i-o-tasks?view=netframework-4.8
+
+*Tags: C#, .NET, I/O, file, handling, folder*
+
+---
