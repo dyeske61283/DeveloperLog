@@ -139,3 +139,19 @@
 *Tags: C#, .NET, I/O, file, handling, folder*
 
 ---
+
+## 07.05.2018
+
+#### Problem: Check if filename/-path is valid in C#
+
+* https://stackoverflow.com/questions/422090/in-c-sharp-check-that-filename-is-possibly-valid-not-that-it-exists
+
+*Tags: C#, .NET, I/O, file, valid, path*
+
+---
+
+#### Problem: Excel Object Model
+
+* https://docs.microsoft.com/en-us/visualstudio/vsto/excel-object-model-overview?view=vs-2019
+
+*Tags: Excel, C#, Automation, Object Model*
