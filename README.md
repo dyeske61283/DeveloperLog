@@ -155,3 +155,23 @@
 * https://docs.microsoft.com/en-us/visualstudio/vsto/excel-object-model-overview?view=vs-2019
 
 *Tags: Excel, C#, Automation, Object Model*
+
+---
+
+## 14.05.2019
+
+#### Problem: Resolve relative Path to absolute Path in .NET
+
+* https://stackoverflow.com/questions/4796254/relative-path-to-absolute-path-in-c
+
+*Tags: C#, .NET, Path, absolute, relative*
+
+---
+
+#### Problem: Read webpages with C#
+
+* http://zetcode.com/articles/csharpreadwebpage/
+
+*Tags: C#, .NET, Webpages, Scrapper*
+
+---
