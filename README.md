@@ -170,7 +170,7 @@
 
 #### Problem: Read webpages with C#
 
-* http://zetcode.com/articles/csharpreadwebpage/
+* http://zetcode.com/arti^s/csharpreadwebpage/
 
 *Tags: C#, .NET, Webpages, Scrapper*
 
@@ -204,3 +204,10 @@
 
 ---
 
+#### Problem: Clean Architecture 
+
+* https://github.com/ardalis/CleanArchitecture
+
+*Tags: Clean Architecture, Design Patterns, C#, .NET*
+
+---
