@@ -175,3 +175,32 @@
 *Tags: C#, .NET, Webpages, Scrapper*
 
 ---
+
+## 20.05.2019
+
+#### Problem: Adding a change listener to a combo box in JavaFX
+
+* http://www.java2s.com/Code/Java/JavaFX/AddchangelistenertoComboBoxvalueProperty.htm
+
+*Tags: Java, FX, ComboBox, Listener*
+
+---
+
+#### Problem: Resources to Haskell
+
+* http://learnyouahaskell.com/starting-out
+* http://book.realworldhaskell.org/read/programming-with-monads.html
+* https://www.amazon.de/Programming-Haskell-Graham-Hutton/dp/1316626229/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=graham+hutton&qid=1558341150&s=gateway&sr=8-1
+
+*Tags: Learning, Haskell, Basics*
+
+---
+
+#### Problem: Working with a TableView in JavaFX
+
+* https://docs.oracle.com/javafx/2/ui_controls/table-view.htm
+
+*Tags: Java, FX, TableView*
+
+---
+
