@@ -224,3 +224,9 @@
 * https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bb514628(v=vs.90)
 
 *Tags: WPF, C#, .NET, Container, Layout, GUI*
+
+#### Problem: Resize controls when WPF window is resized
+
+* https://stackoverflow.com/questions/19393774/how-to-make-all-controls-resize-accordingly-proportionally-when-window-is-maximi
+
+*Tags: WPF, C#, .NET, Container, Layout, GUI, Resite, Window*
