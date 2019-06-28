@@ -211,3 +211,16 @@
 *Tags: Clean Architecture, Design Patterns, C#, .NET*
 
 ---
+
+#### Problem: Sources to Code Metrics
+
+
+*Tags: master thesis, code metrics, *
+
+---
+
+#### Problem: Using the right container in WPF Appliactions
+
+* https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bb514628(v=vs.90)
+
+*Tags: WPF, C#, .NET, Container, Layout, GUI*
