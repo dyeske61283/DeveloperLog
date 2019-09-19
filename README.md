@@ -240,3 +240,11 @@
 * https://m.heise.de/developer/artikel/Die-vielfaeltigen-Faehigkeiten-von-Git-Teil-1-4456122.html
 
 *Tags: Git, VCS, remotes, commands, cheat sheet*
+
+---
+
+#### Problem: Refactoring & Patterns with Examples
+
+* https://refactoring.guru/
+
+*Tags: Refactoring, Patterns, Snippets, Examples*
