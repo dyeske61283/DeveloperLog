@@ -251,7 +251,7 @@
 
 ---
 
-## 20.05.2019
+## 22.11.2019
 
 #### Problem: Swapping Assemblies during Runtime of .NET
 
