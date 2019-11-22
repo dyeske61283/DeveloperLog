@@ -16,7 +16,7 @@
 
 ## 26.04.2019
 
-#### Problem: Ressources zu Go 
+#### Problem: Resources zu Go 
 
 * https://github.com/golang/go/wiki/Learn
 
@@ -219,7 +219,7 @@
 
 ---
 
-#### Problem: Using the right container in WPF Appliactions
+#### Problem: Using the right container in WPF Applications
 
 * https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/bb514628(v=vs.90)
 
@@ -247,14 +247,41 @@
 
 * https://refactoring.guru/
 
-*Tags: Refactoring, Patterns, Snippets, Examples*
+*Tags: Refactoring, Patterns, Snippets, Examples, Guru, Basics*
 
 ---
+
+## 20.05.2019
 
 #### Problem: Swapping Assemblies during Runtime of .NET
 
 * https://www.codeproject.com/Articles/29961/Shadow-Copying-of-Applications
 
 *Tags: C#, .NET, Update, Assembly, ShadowCopy*
+
+---
+
+#### Problem: WPF Development
+
+* https://docs.microsoft.com/de-de/dotnet/framework/wpf/app-development/
+
+*Tags: .NET, C#, WPF, Application, Development, Basics*
+
+---
+
+#### Problem: Let's build a compiler
+
+* https://compilers.iecc.com/crenshaw/tutorfinal.pdf
+
+*Tags: Compiler, Parser, Lexer, Pascal*
+
+---
+
+#### Problem: .NET Naming & Software Conventions
+
+* https://docs.microsoft.com/de-de/dotnet/standard/design-guidelines/
+* https://docs.microsoft.com/de-de/dotnet/framework/development-guide
+
+*Tags: Design, Guidelines, Naming, .NET, C#, Development, Framework, Convention*
 
 ---
