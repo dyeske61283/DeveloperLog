@@ -215,7 +215,7 @@
 #### Problem: Sources to Code Metrics
 
 
-*Tags: master thesis, code metrics, *
+*Tags: master thesis, code metrics*
 
 ---
 
@@ -231,7 +231,7 @@
 
 * https://stackoverflow.com/questions/19393774/how-to-make-all-controls-resize-accordingly-proportionally-when-window-is-maximi
 
-*Tags: WPF, C#, .NET, Container, Layout, GUI, Resite, Window*
+*Tags: WPF, C#, .NET, Container, Layout, GUI, Resize, Window*
 
 ---
 
@@ -248,3 +248,13 @@
 * https://refactoring.guru/
 
 *Tags: Refactoring, Patterns, Snippets, Examples*
+
+---
+
+#### Problem: Swapping Assemblies during Runtime of .NET
+
+* https://www.codeproject.com/Articles/29961/Shadow-Copying-of-Applications
+
+*Tags: C#, .NET, Update, Assembly, ShadowCopy*
+
+---
