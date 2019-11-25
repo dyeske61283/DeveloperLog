@@ -285,3 +285,13 @@
 *Tags: Design, Guidelines, Naming, .NET, C#, Development, Framework, Convention*
 
 ---
+
+## 25.11.2019
+
+#### How to build a rich CLI with dotNet core
+
+* https://medium.com/swlh/build-a-command-line-interface-cli-program-with-net-core-428c4c85221
+
+*Tags: CLI, Design, .NET, core, C#, commandline, options, commands*
+
+---
