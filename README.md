@@ -295,3 +295,13 @@
 *Tags: CLI, Design, .NET, core, C#, commandline, options, commands*
 
 ---
+
+## 02.12.2019
+
+#### Designing a good UI/UX
+
+* https://youtu.be/aZZCZpc0AcY
+
+*Tags: UI, UX, Design, Focus, Information, Visualization, GUI*
+
+---
