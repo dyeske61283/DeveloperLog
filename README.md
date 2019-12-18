@@ -305,3 +305,13 @@
 *Tags: UI, UX, Design, Focus, Information, Visualization, GUI*
 
 ---
+
+## 18.12.2019
+
+#### Detect if console application is running interactively
+
+* https://stackoverflow.com/questions/1188658/how-can-a-c-sharp-windows-console-application-tell-if-it-is-run-interactively
+
+*Tags: C#, .NET, commandline, user, interactive, machine, automation*
+
+---
