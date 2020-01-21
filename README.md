@@ -315,3 +315,14 @@
 *Tags: C#, .NET, commandline, user, interactive, machine, automation*
 
 ---
+
+## 21.01.2020
+
+#### Source Code Analyzer .NET Core
+
+* https://github.com/microsoft/ApplicationInspector
+
+*Tags: Quality, Analysis, .NET, Core, Tool, Static, C#*
+
+---
+
