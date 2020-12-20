@@ -326,3 +326,41 @@
 
 ---
 
+## 08.11.2020
+
+#### Problem: Best practices in .NET unit testing
+
+* https://docs.microsoft.com/de-de/dotnet/core/testing/unit-testing-best-practices
+
+*Tags: .NET, unit tests, testing, best practices*
+
+---
+
+## 20.12.2020
+
+#### Problem: Performance in dynamic object instantiation in .NET
+
+* [Don't use activator.CreateInstance](https://vagifabilov.wordpress.com/2010/04/02/dont-use-activator-createinstance-or-constructorinfo-invoke-use-compiled-lambda-expressions/)
+
+*Tags: .NET, performance, instance, creation, dynamic, reflection*
+
+---
+
+#### Problem: Good AWS Lambda Architecture
+
+* https://aws.amazon.com/de/blogs/architecture/best-practices-for-developing-on-aws-lambda/
+* https://github.com/aws-samples/lambda-refarch-webapp
+* https://aws.amazon.com/de/blogs/compute/best-practices-for-organizing-larger-serverless-applications/
+* https://aws.amazon.com/de/blogs/architecture/how-to-design-your-serverless-apps-for-massive-scale/
+
+*Tags: AWS, Lambda, application, architecture, best practices*
+
+---
+
+#### Problem: Elasticsearch for .NET Developers
+
+* https://www.toptal.com/dot-net/elasticsearch-dot-net-developers
+
+*Tags: Elasticsearch, .NET, setup, search, introduction*
+
+---
