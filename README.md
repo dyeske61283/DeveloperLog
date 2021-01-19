@@ -364,3 +364,13 @@
 *Tags: Elasticsearch, .NET, setup, search, introduction*
 
 ---
+
+## 19.01.2020
+
+#### Problem: Repository Pattern and Unit of Work
+
+* https://www.programmingwithwolfgang.com/repository-and-unit-of-work-pattern/#definition-unit-of-work
+
+*Tags: .NET, C#, Design Patterns, Repository, Enterprise, Architecture*
+
+---
